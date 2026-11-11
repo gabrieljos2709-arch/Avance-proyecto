@@ -1,5 +1,4 @@
 """Sistema de Biblioteca Escolar Digital.
-Ejecutar desde esta carpeta con: python main.py
 """
 from almacenamiento import cargar_todo
 from interfaz import iniciar_aplicacion
